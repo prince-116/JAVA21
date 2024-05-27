@@ -35,6 +35,6 @@ To run this java files you will be required:
    1. For example ```java stringtemplate.java --enable-preview```
 
 ## PPT For JAVA-21 Feature
-[View Presentation Online](https://docs.google.com/presentation/d/e/1IykD1YR6-IOfPp-ZhwbyV5f--2D-Ihw7L2g4WaZLK5I)
+[View Presentation Online](https://docs.google.com/presentation/d/1IykD1YR6-IOfPp-ZhwbyV5f--2D-Ihw7L2g4WaZLK5I)
 
 
